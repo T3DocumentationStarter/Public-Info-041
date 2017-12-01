@@ -25,7 +25,6 @@
 My Public Info Project
 ======================
 
-
 .. The following is 'field list' which is rendered as a horizontal table.
    Think of it as key-value pairs.
 
