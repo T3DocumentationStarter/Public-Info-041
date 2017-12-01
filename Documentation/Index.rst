@@ -57,9 +57,9 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
 
 .. _hello:
 
-**Hello,**
-
 These lines have been written by Martin_ .
+
+**Hello,**
 
 What's it about?
 
