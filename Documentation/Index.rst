@@ -59,7 +59,7 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
 
 **Hello,**
 
-Martin_ here.
+These lines have been written by Martin_ .
 
 What's it about?
 
